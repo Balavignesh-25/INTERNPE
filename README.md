@@ -7,7 +7,10 @@ Welcome to my InternPE Java Programming Internship Tasks repository! In this rep
 
 ## Table of Contents  
 - [Introduction](#introduction)  
-- [Tasks](#tasks)  
+- [Tasks](#tasks)
+- [Contributing](#contributing)
+- [License](#license)
+- [Gratitude](#gratitude)  
   
 ## Introduction  
 During my internship, I focused on several Java programming projects, ranging from a number guessing game to file handling applications. Each project is stored in a separate folder with relevant documentation to explain the key concepts and techniques used.  
@@ -19,4 +22,13 @@ During my internship, I focused on several Java programming projects, ranging fr
 
 - *Technologies*: Java  
 - *Skills Learned*: Loops, conditionals, user input handling  
-- *Project Folder*: https://github.com/Balavignesh-25/INTERNPE/blob/main/GuessNumber.java
+- *Project File*: https://github.com/Balavignesh-25/INTERNPE/blob/main/GuessNumber.java
+
+## Contributing
+Contributions are welcome! If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+## Gratitude
+I would like to extend my heartfelt gratitude to the entire InternPE team for providing me with this incredible opportunity to be a part of their internship program. The experience gained during this internship has been invaluable, and I am grateful for the guidance, mentorship, and support I received from InternPE's team. Once again, thank you to InternPE for this fantastic internship experience!
