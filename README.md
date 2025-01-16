@@ -22,13 +22,20 @@ During my internship, I focused on several Java programming projects, ranging fr
 
 - *Technologies*: Java  
 - *Skills Learned*: Loops, conditionals, user input handling  
-- *Project File*: https://github.com/Balavignesh-25/INTERNPE/blob/main/GuessNumber.java
+- *Project File*: [GuessNumber.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/GuessNumber.java)
 
-## Contributing
+### Task 2: Rock Paper Scissors Game  
+*Description*: A more advanced version of the classic Rock-Paper-Scissors game. The game includes multiple rounds, dynamic feedback, streak tracking, and an option to play again. The user competes against the computer, and the scores are tracked throughout the game.  
+
+- *Technologies*: Java  
+- *Skills Learned*: Conditionals, loops, user input validation, random number generation, game logic  
+- *Project File*: [RockPaperScissors.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/RockPaperScissors.java)
+
+## Contributing  
 Contributions are welcome! If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
 
-## License
+## License  
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-## Gratitude
+## Gratitude  
 I would like to extend my heartfelt gratitude to the entire InternPE team for providing me with this incredible opportunity to be a part of their internship program. The experience gained during this internship has been invaluable, and I am grateful for the guidance, mentorship, and support I received from InternPE's team. Once again, thank you to InternPE for this fantastic internship experience!
