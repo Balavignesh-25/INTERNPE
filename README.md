@@ -31,6 +31,13 @@ During my internship, I focused on several Java programming projects, ranging fr
 - *Skills Learned*: Conditionals, loops, user input validation, random number generation, game logic  
 - *Project File*: [RockPaperScissors.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/RockPaperScissors.java)
 
+### Task 3: Tic Tac Toe Game  
+*Description*: This project is an implementation of the classic Tic Tac Toe game, allowing for single-player mode against an AI or two-player mode. It features real-time board updates, winner/draw detection, and a replay option.  
+
+- *Technologies*: Java  
+- *Skills Learned*: Arrays, conditionals, loops, game logic, AI development  
+- *Project File*: [TicTacToe.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/TicTacToe.java)
+
 ## Contributing  
 Contributions are welcome! If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
 
