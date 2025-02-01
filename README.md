@@ -38,6 +38,13 @@ During my internship, I focused on several Java programming projects, ranging fr
 - *Skills Learned*: Arrays, conditionals, loops, game logic, AI development  
 - *Project File*: [TicTacToe.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/TicTacToe.java)
 
+### Task 4: Connect Four Game  
+*Description*: This is a Java implementation of the Connect Four game with a dark mode theme. Players can choose to play against an AI or another player. It includes game logic, AI implementation using the minimax algorithm, and win detection. The board is drawn using a graphical interface built with Swing.  
+
+- *Technologies*: Java, Swing  
+- *Skills Learned*: Arrays, graphics, game logic, AI development, event handling  
+- *Project File*: [ConnectFourDarkMode.java](https://github.com/Balavignesh-25/INTERNPE/blob/main/ConnectFourDarkMode.java)
+
 ## Contributing  
 Contributions are welcome! If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
 
